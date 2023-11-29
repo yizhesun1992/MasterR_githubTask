@@ -64,3 +64,6 @@ box +
 #renv::snapshot()
 ###deactivate the renv 
 #renv::deactivate()
+
+data(iris)
+
